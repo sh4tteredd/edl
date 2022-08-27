@@ -29,7 +29,6 @@ sudo pacman -R modemmanager
 
 sudo systemctl stop ModemManager
 sudo systemctl disable ModemManager
-sudo apt purge ModemManager
 
 
 git clone https://github.com/bkerler/edl.git
